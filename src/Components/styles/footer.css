@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #340404;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer:hover {
+    background-color: hsl(200, 92%, 21%); 
+  }
+  
